@@ -1,0 +1,9 @@
+/* Custom styles for AMA site */
+
+.bg-navy {
+  background-color: #0A1D3A; /* matches logo color */
+}
+
+.text-navy {
+  color: #0A1D3A;
+}
